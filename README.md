@@ -5,7 +5,7 @@ This is a fully responsive clone of the popular e-commerce website [Myntra](http
 ## 📸 Screenshots
 
 > Add screenshots of your project here
-
+(image/App/nav_banner.png)
 ---
 
 ## 🔧 Features
